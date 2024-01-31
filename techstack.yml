@@ -1,0 +1,2177 @@
+repo_name: VuyoSoci/CQRS
+report_id: fee28f31760352998a64a27f07f6d275
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-31T11:58:58+00:00'
+requested_by: cdmdotnet
+provider: github
+branch: master
+detected_tools_count: 150
+tools:
+- name: ASP.NET
+  description: An open source web framework for building modern web apps and services
+    with .NET
+  website_url: https://www.asp.net/
+  version: '4.6'
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/Chat.MicroKernel.csproj
+  detection_source: Chat/Chat.MicroKernel/Chat.MicroKernel.csproj
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-12 18:54:15.000000000 Z
+- name: C#
+  description: Simple, general-purpose, object-oriented programming language for the
+    .NET platform
+  website_url: http://csharp.net
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.UI/Scripts/angular-mocks.js
+  detection_source: Chat/Chat.UI/Scripts/angular-mocks.js
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-12 20:20:34.000000000 Z
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/tools/Create-Log-Table.sql
+  detection_source: Chat/Chat.MicroKernel/tools/Create-Log-Table.sql
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-13 09:07:53.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Scheduler/Cqrs.Scheduler.Trigger/Cqrs.Scheduler.Trigger.csproj
+  detection_source: Scheduler/Cqrs.Scheduler.Trigger/Cqrs.Scheduler.Trigger.csproj
+  last_updated_by: Grover Jackson
+  last_updated_on: 2021-09-16 00:44:23.000000000 Z
+- name: ".NET Core"
+  description: An Open Source, General-Purpose Development Platform Maintained by
+    Microsoft and the .NET Community
+  website_url: https://docs.microsoft.com/en-us/dotnet/core/
+  version: '3.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Tests/Cqrs.Azure.ConfigurationManager.Tests.Unit/Cqrs.Azure.ConfigurationManager.Tests.Unit.csproj
+  detection_source: Framework/Azure/Tests/Cqrs.Azure.ConfigurationManager.Tests.Unit/Cqrs.Azure.ConfigurationManager.Tests.Unit.csproj
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-25 01:33:59.000000000 Z
+- name: ASP.NET Core
+  description: A cross-platform .NET framework for building modern cloud-based web
+    applications on Windows, Mac, or Linux
+  website_url: docs.microsoft.com/en-us/aspnet/core/
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/11331/asp.net-core.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Akka.Net/Cqrs.Akka.Tests.Unit/Cqrs.Akka.Tests.Unit.csproj
+  detection_source: Framework/Azure/Tests/Cqrs.Azure.ConfigurationManager.Tests.Unit/Cqrs.Azure.ConfigurationManager.Tests.Unit.csproj
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-25 01:33:59.000000000 Z
+- name: AngularJS
+  description: Superheroic JavaScript MVW Framework
+  website_url: https://angularjs.org/
+  version: 1.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/1019/square.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.UI/packages.config
+  detection_source: Chat/Chat.UI/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-17 08:42:00.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-19 06:11:08.000000000 Z
+- name: Knockout
+  description: Create rich, responsive UIs with JavaScript
+  website_url: http://knockoutjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1997/logo_400x400.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-22 02:12:35.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.UI/packages.config
+  detection_source: Chat/Chat.UI/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-12 22:43:29.000000000 Z
+- name: Azure Service Bus
+  description: 'Reliable cloud messaging as a service (MaaS) '
+  website_url: https://azure.microsoft.com/en-us/services/service-bus/
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/3980/Azure-Service-Bus.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-19 05:59:48.000000000 Z
+- name: Entity Framework
+  description: An object-relational mapper that enables .NET developers to work with
+    relational data
+  website_url: https://docs.microsoft.com/en-us/aspnet/entity-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/3251/no-img-open-source.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs/Cqrs.csproj
+  detection_source: Framework/Cqrs/Cqrs.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-09-28 07:32:05.000000000 Z
+- name: Entity Framework Core
+  description: 'Lightweight and cross-platform version of the popular Entity Framework '
+  website_url: https://docs.microsoft.com/en-us/ef/core/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs/Cqrs.csproj
+  detection_source: Framework/Cqrs/Cqrs.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-09-28 07:32:05.000000000 Z
+- name: Event Store
+  description: The open-source, functional database with Complex Event Processing
+  website_url: https://eventstore.com/
+  open_source: true
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/6159/default_9a84d3bd1373bab8db9d156e8518536d6acecae2.jpg
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs.EventStore/packages.config
+  detection_source: Framework/Cqrs.EventStore/packages.config
+  last_updated_by: grover
+  last_updated_on: 2015-03-30 02:58:06.000000000 Z
+- name: Microsoft SQL Server
+  description: A relational database management system developed by Microsoft
+  website_url: http://microsoft.com/sqlserver
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1027/sql_server.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs/Cqrs.csproj
+  detection_source: Framework/Cqrs/Cqrs.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs.Mongo/Cqrs.Mongo.csproj
+  detection_source: Framework/Cqrs.Mongo/Cqrs.Mongo.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 07:30:31.000000000 Z
+- name: SignalR
+  description: A new library for ASP.NET developers that makes developing real-time
+    web functionality easy.
+  website_url: https://dotnet.microsoft.com/en-us/apps/aspnet/signalr
+  version: 2.2.2
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/4013/SignalR-logo.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-12 20:33:57.000000000 Z
+- name: EventBus
+  description: An open-source library for Android and Java
+  website_url: http://greenrobot.org/eventbus/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/9610/no-img-open-source.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: XsamX
+  last_updated_on: 2017-07-21 23:20:45.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/.github/workflows/codeql-analysis.yml
+  detection_source: ".github/workflows/codeql-analysis.yml"
+  last_updated_by: Grover
+  last_updated_on: 2022-07-26 21:43:31.000000000 Z
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.0.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/package.json
+  detection_source: Chat/package.json
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-15 00:03:01.000000000 Z
+- name: NUnit
+  description: An open-source unit testing framework
+  website_url: http://www.nunit.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2371/jZ6MYx5Y_400x400.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Akka.Net/Cqrs.Akka.Tests.Unit/Cqrs.Akka.Tests.Unit.csproj
+  detection_source: Framework/Akka.Net/Cqrs.Akka.Tests.Unit/Cqrs.Akka.Tests.Unit.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-06-09 09:24:26.000000000 Z
+- name: Ninject
+  description: The ninja of .net dependency injectors
+  website_url: http://www.ninject.org
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Game Development
+  image_url: https://img.stackshare.io/service/3173/default_85e419b9c60b158340e534d5006d949015ec16e4.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: XsamX
+  last_updated_on: 2017-07-21 23:20:45.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Scheduler/Cqrs.Scheduler.Trigger/Cqrs.Scheduler.Trigger.csproj
+  detection_source: Scheduler/Cqrs.Scheduler.Trigger/Cqrs.Scheduler.Trigger.csproj
+  last_updated_by: Grover Jackson
+  last_updated_on: 2021-09-16 00:44:23.000000000 Z
+- name: Owin
+  description: A standard interface between .NET web servers and web applications
+  website_url: http://owin.org/
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Server Interface
+  image_url: https://img.stackshare.io/service/4967/New_Project__95_.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-08-31 20:27:41.000000000 Z
+- name: RequireJS
+  description: JavaScript file and module loader
+  website_url: http://requirejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/852/1781835.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.UI/packages.config
+  detection_source: Chat/Chat.UI/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-12 20:20:34.000000000 Z
+- name: Visual Studio
+  description: State-of-the-art tools and services that you can use to create great
+    apps for devices, the cloud, and everything in between.
+  website_url: http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Integrated Development Environment
+  image_url: https://img.stackshare.io/service/1451/SR2hUhQN.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.sln
+  detection_source: Chat/Chat.sln
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-12 18:54:15.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-18 21:47:39.000000000 Z
+- name: Microsoft Azure
+  description: Integrated cloud services and infrastructure to support computing,
+    database, analytics, mobile, and web scenarios.
+  website_url: https://azure.microsoft.com/en-us/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Cloud Hosting
+  image_url: https://img.stackshare.io/service/213/default_88defae415fcb9cd0ac5d36c1ed27e74133c6287.jpg
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Unity
+  description: Unity brings state-of-the-art, affordable multiplatform tools and services
+    to developers of interactive content everywhere.
+  website_url: http://unity3d.com/
+  open_source: false
+  hosted_saas: true
+  category: Languages & Frameworks
+  sub_category: Game Development
+  image_url: https://img.stackshare.io/service/2084/CGKUrcD9_400x400.jpg
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-13 09:07:53.000000000 Z
+- name: Modernizr
+  description: Respond to your user’s browser features
+  website_url: https://modernizr.com/
+  version: 2.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2440/9TeXWBzR_400x400.jpg
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-18 21:47:39.000000000 Z
+- name: Akka
+  description: Akka.NET is a port of the popular Java/Scala framework Akka to .NET
+  package_url: https://www.nuget.org/Akka
+  version: 1.0.4
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13173/default_ddb80ffe5e703ddb5d51e009032febb5bb1a4d24.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Akka.Net/Cqrs.Akka/Cqrs.Akka.csproj
+  detection_source: Framework/Akka.Net/Cqrs.Akka/Cqrs.Akka.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 07:30:31.000000000 Z
+  vulnerabilities:
+  - name: Remote code execution vulnerability in dependency System.Drawing.Common
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-gpv5-rp6w-58r8
+    detected_date: Nov 22
+    severity: moderate
+    first_patched: 1.4.46
+- name: Angular.UI.Bootstrap
+  description: Bootstrap components written in pure AngularJS
+  package_url: https://www.nuget.org/Angular.UI.Bootstrap
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14362/default_90e7ce697521dd13e8eb643d3771c2a0e4e6d561.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.UI/packages.config
+  detection_source: Chat/Chat.UI/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-17 08:42:00.000000000 Z
+- name: AngularJS.Core
+  description: See the AngularJS.* packages for other Angular modules
+  package_url: https://www.nuget.org/AngularJS.Core
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13373/default_a8c5a9d917d12544e0591a4182335d690601b375.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.UI/packages.config
+  detection_source: Chat/Chat.UI/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-17 08:42:00.000000000 Z
+- name: AngularJS.Route
+  description: See the AngularJS.* packages for other Angular modules
+  package_url: https://www.nuget.org/AngularJS.Route
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14989/default_ebc5ab7b649d0ed57c7cc64d0f166fca44a72aa4.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.UI/packages.config
+  detection_source: Chat/Chat.UI/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-17 08:42:00.000000000 Z
+- name: Antlr
+  description: ANother Tool for Language Recognition
+  package_url: https://www.nuget.org/Antlr
+  version: 3.4.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13151/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-18 21:47:39.000000000 Z
+- name: Chinchilla.Logging
+  description: Chinchilla.Logging is a .NET Core port of cdmdotnet.Logging, an abstracted
+    logging platform for .NET
+  package_url: https://www.nuget.org/Chinchilla.Logging
+  version: 4.5.29
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15654/default_6930eac2a84de7f9b44ce5ebd15ad2507851e7cd.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Diagnostics/Cqrs.Diagnostics.EventStoreToEventBusReplay/Cqrs.Diagnostics.EventStoreToEventBusReplay.csproj
+  detection_source: Diagnostics/Cqrs.Diagnostics.EventStoreToEventBusReplay/Cqrs.Diagnostics.EventStoreToEventBusReplay.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: CommonServiceLocator
+  description: The library provides an abstraction over IoC containers and service
+    locators
+  package_url: https://www.nuget.org/CommonServiceLocator
+  version: '1.0'
+  license: MS-PL
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12915/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-19 05:59:48.000000000 Z
+- name: Cqrs
+  description: A lightweight enterprise Function as a service
+  package_url: https://www.nuget.org/Cqrs
+  version: 2.2.1405
+  license: LGPL-2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14039/default_d180c2d30f4f4692ca9cfa9a57fcceb48a097e7b.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: XsamX
+  last_updated_on: 2017-07-21 23:20:45.000000000 Z
+- name: DotNetOpenAuth.AspNet
+  description: Enables web site visitors to log into an ASP.NET web application via
+    popular identity providers
+  package_url: https://www.nuget.org/DotNetOpenAuth.AspNet
+  version: 4.1.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13933/default_8dca38a2ab03b0f0fe4abb9653f518b12d7c36b6.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-22 02:12:35.000000000 Z
+- name: DotNetOpenAuth.Core
+  description: This package contains shared code for other NuGet packages
+  package_url: https://www.nuget.org/DotNetOpenAuth.Core
+  version: 4.1.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14514/default_26203d730613eafa87f8442ac8c7d2681fb68c1e.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-22 02:12:35.000000000 Z
+- name: DotNetOpenAuth.OAuth.Consumer
+  description: Improve usability
+  package_url: https://www.nuget.org/DotNetOpenAuth.OAuth.Consumer
+  version: 4.1.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15004/default_2bc9b8012cc0314fa3c462782c3abefe3467a481.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-22 02:12:35.000000000 Z
+- name: EnterpriseLibrary.Common
+  description: The Enterprise Library Common assembly contains elements that are shared
+    among multiple application blocks
+  package_url: https://www.nuget.org/EnterpriseLibrary.Common
+  version: 5.0.505
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13188/default_6274a62314a8edf620f5d7b098b28a2e5cbbf3a4.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: XsamX
+  last_updated_on: 2017-07-21 23:20:45.000000000 Z
+- name: EnterpriseLibrary.WindowsAzure.TransientFaultHandling
+  description: The Transient Fault Handling Application Block for Windows Azure
+  package_url: https://www.nuget.org/EnterpriseLibrary.WindowsAzure.TransientFaultHandling
+  version: 5.1.1212
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/15659/default_377113acdd941f50a77fd19dd149f78f636a1f74.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-19 05:59:48.000000000 Z
+- name: EventStore.Client
+  description: The client API for Event Store
+  package_url: https://www.nuget.org/EventStore.Client
+  version: 3.0.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13390/default_4365d404b4980fe62927eb339d7814e74037cd43.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs.EventStore/packages.config
+  detection_source: Framework/Cqrs.EventStore/packages.config
+  last_updated_by: grover
+  last_updated_on: 2015-03-30 02:58:06.000000000 Z
+- name: MSTest.TestFramework
+  description: This is MSTest V2, the evolution of Microsoft's Test Framework
+  package_url: https://www.nuget.org/MSTest.TestFramework
+  version: 2.2.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Akka.Net/Cqrs.Akka.Tests.Unit/Cqrs.Akka.Tests.Unit.csproj
+  detection_source: Framework/Akka.Net/Cqrs.Akka.Tests.Unit/Cqrs.Akka.Tests.Unit.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-06-09 09:24:26.000000000 Z
+- name: Microsoft.ApplicationInsights
+  description: Application Insights Base API
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13015/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.ApplicationInsights.Agent.Intercept
+  description: This NuGet enables Interception of method calls
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.Agent.Intercept
+  version: 2.0.6
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14587/default_04c230a7faf108c837aa3e6d645603d730fef980.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.ApplicationInsights.DependencyCollector
+  description: Application Insights Dependency Collector for .NET applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.DependencyCollector
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13741/default_464fb9b438380c5ec98e481823a05b9599991662.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.ApplicationInsights.PerfCounterCollector
+  description: Application Insights Performance Counters Collector allows you to send
+    data collected by Performance Counters to Application Insights
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.PerfCounterCollector
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13849/default_1dc9a9444fe68b18bef2b0e836067caced79799a.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.ApplicationInsights.TraceListener
+  description: Application Insights Trace Listener is a custom TraceListener allowing
+    you to send trace log messages to Application Insights
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.TraceListener
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14881/default_aefee43dcb937439f85f5e926275320cb9698060.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.ApplicationInsights.WindowsServer
+  description: Application Insights Windows Server nuget package provides automatic
+    collection of application insights telemetry for .NET applications
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.WindowsServer
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14056/default_ead9c4c471ac46d45e6810fff3502fe6c044fb23.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel
+  description: This nuget provides a telemetry channel to Application Insights Windows
+    Server SDK that will preserve telemetry in offline scenarios
+  package_url: https://www.nuget.org/Microsoft.ApplicationInsights.WindowsServer.TelemetryChannel
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14117/default_d7d5794851dadbcf90dc060e882cc3b488ce3484.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.Cors
+  description: Microsoft.AspNet.Cors
+  package_url: https://www.nuget.org/Microsoft.AspNet.Cors
+  version: 5.2.3
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13276/default_cadeaa4a9968284dcd1223273394c410c31c9d09.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.Identity.Core
+  description: Core interfaces for ASP.NET Identity
+  package_url: https://www.nuget.org/Microsoft.AspNet.Identity.Core
+  version: 2.2.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13002/default_971bb108ce002c2032e407a9046135e1542c46c7.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.Identity.EntityFramework
+  description: ASP.NET Identity providers that use Entity Framework
+  package_url: https://www.nuget.org/Microsoft.AspNet.Identity.EntityFramework
+  version: 2.2.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13030/default_1075538f3811f68c42abfdf5ebcf152058e4076d.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.Identity.Owin
+  description: Owin implementation for ASP.NET Identity
+  package_url: https://www.nuget.org/Microsoft.AspNet.Identity.Owin
+  version: 2.2.1
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13022/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+  vulnerabilities:
+  - name: " Microsoft Security Advisory CVE-2023-33170: .NET Security Feature Bypass
+      Vulnerability"
+    cve_id: CVE-2023-33170
+    cve_url: https://github.com/advisories/GHSA-25c8-p796-jg6r
+    detected_date: Jul 12
+    severity: high
+    first_patched: 2.2.4
+- name: Microsoft.AspNet.Mvc
+  description: ASP.NET MVC is a web framework that gives you a powerful, patterns-based
+    way to build dynamic websites and Web APIs
+  package_url: https://www.nuget.org/Microsoft.AspNet.Mvc
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12850/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.Mvc.FixedDisplayModes
+  description: The previous version of this package contained a workaround for a bug
+    affecting mobile view caching in ASP.NET MVC 4
+  package_url: https://www.nuget.org/Microsoft.AspNet.Mvc.FixedDisplayModes
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13591/default_2fed3dd41a57ad03758b88d7d49dbbc498986493.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.Providers.Core
+  description: ASP.NET Universal Providers add provider support in ASP.NET 4 for all
+    editions of SQL Server 2005 and later and to SQL Azure
+  package_url: https://www.nuget.org/Microsoft.AspNet.Providers.Core
+  version: '1.1'
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14341/default_afb824345d39171426ecba1761288d02cb44b19c.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/ProjectTemplate/MyCompany.MyProject.Web.Mvc/packages.config
+  detection_source: ProjectTemplate/MyCompany.MyProject.Web.Mvc/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.Providers.LocalDb
+  description: ASP.NET Universal Providers add provider support in ASP.NET 4 for all
+    editions of SQL Server 2005 and later and to SQL Azure
+  package_url: https://www.nuget.org/Microsoft.AspNet.Providers.LocalDb
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14681/default_48864d946ebda6ea32754eb8405d1d1897e6a8f6.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/ProjectTemplate/MyCompany.MyProject.Web.Mvc/packages.config
+  detection_source: ProjectTemplate/MyCompany.MyProject.Web.Mvc/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.Razor
+  description: Razor is a markup syntax for adding server-side logic to web pages
+  package_url: https://www.nuget.org/Microsoft.AspNet.Razor
+  version: 3.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12930/default_f8bf1110f8f0beaf5fae35865de7f77ccd1139f0.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.SignalR.Core
+  description: Async signaling library for .NET to help build real-time
+  package_url: https://www.nuget.org/Microsoft.AspNet.SignalR.Core
+  version: 2.2.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13146/default_44f069d4a745c5c788fc8fe5128bd24cacde1aff.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.SignalR.JS
+  description: JavaScript client for ASP.NET SignalR
+  package_url: https://www.nuget.org/Microsoft.AspNet.SignalR.JS
+  version: 2.2.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13698/default_454d3c2483df503a4aa32113a89e3edb23190d51.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.UI/packages.config
+  detection_source: Chat/Chat.UI/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-12 22:43:29.000000000 Z
+- name: Microsoft.AspNet.Web.Optimization
+  description: ASP.NET Optimization introduces a way to bundle and optimize CSS and
+    JavaScript files
+  package_url: https://www.nuget.org/Microsoft.AspNet.Web.Optimization
+  version: 1.1.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12966/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.WebApi
+  description: This package contains everything you need to host ASP.NET Web API on
+    IIS
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12923/default_039376cf26bae25623c106aea6185b89980a1e50.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.WebApi.Client
+  description: This package adds support for formatting and content negotiation to
+    System.Net.Http
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.Client
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12870/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.WebApi.Core
+  description: This package contains the core runtime assemblies for ASP.NET Web API
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.Core
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12879/default_4b18ad6ce0b5b2bd1dc822207c362ce8e0f74098.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.WebApi.Cors
+  description: This package contains the components to enable Cross-Origin Resource
+    Sharing
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.Cors
+  version: 5.2.3
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13245/default_43ce02ab18bb400d4d6b410ac4dc3a50f87e634a.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.WebApi.HelpPage
+  description: The ASP.NET Web API Help Page automatically generates help page content
+    for the web APIs on your site
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.HelpPage
+  version: 5.2.3
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13796/default_300517a0879bc10cd5f0e9cabc8af8536f57ba23.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Modelling/Project
+    Templates/CQRS.NET/CQRS.Domain.Host.Web/packages.config
+  detection_source: Modelling/Project Templates/CQRS.NET/CQRS.Domain.Host.Web/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.WebApi.OData
+  description: This package contains everything you need to create OData endpoints
+    using ASP.NET Web API and to support OData query syntax for your web APIs
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.OData
+  version: 4.0.30506
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13341/default_24f30a6aa060dc11b9cd4dd1d52905db9245e978.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.WebApi.WebHost
+  description: This package contains everything you need to host ASP.NET Web API on
+    IIS
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebApi.WebHost
+  version: 5.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12978/default_d871263d8798790404638a4d3692cc70b6389166.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.WebPages
+  description: This package contains core runtime assemblies shared between ASP.NET
+    MVC and ASP.NET Web Pages
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebPages
+  version: 3.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12947/default_d871263d8798790404638a4d3692cc70b6389166.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.WebPages.Data
+  description: This package contains the runtime assemblies for ASP.NET Web Pages
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebPages.Data
+  version: 2.0.20710
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13913/default_d0f56a4fd164e7339982fb0fcb3c8259b4f6838c.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.WebPages.OAuth
+  description: This package contains the runtime assemblies for ASP.NET Web Pages
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebPages.OAuth
+  version: 2.0.20710
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13861/default_9392b6bd21074179bfea6d3bfa28b6447ac48306.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNet.WebPages.WebData
+  description: This package contains the runtime assemblies for ASP.NET Web Pages
+  package_url: https://www.nuget.org/Microsoft.AspNet.WebPages.WebData
+  version: 2.0.20710
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13779/default_300517a0879bc10cd5f0e9cabc8af8536f57ba23.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNetCore.Hosting.Abstractions
+  description: ASP.NET Core hosting and startup abstractions for web applications
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Hosting.Abstractions
+  version: 2.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12965/default_d871263d8798790404638a4d3692cc70b6389166.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Ninject/Azure/Cqrs.Ninject.Azure.Wcf/Cqrs.Ninject.Azure.Wcf.csproj
+  detection_source: Framework/Ninject/Azure/Cqrs.Ninject.Azure.Wcf/Cqrs.Ninject.Azure.Wcf.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.AspNetCore.Http
+  description: ASP.NET Core default HTTP feature implementations
+  package_url: https://www.nuget.org/Microsoft.AspNetCore.Http
+  version: 2.2.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12937/default_bd8397841d0aa5de035298a9130ee2dc9d9b0ece.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Ninject/Azure/Cqrs.Ninject.Azure.Wcf/Cqrs.Ninject.Azure.Wcf.csproj
+  detection_source: Framework/Ninject/Azure/Cqrs.Ninject.Azure.Wcf/Cqrs.Ninject.Azure.Wcf.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-06-10 02:39:32.000000000 Z
+- name: Microsoft.Azure.DocumentDB
+  description: This client library enables client applications to connect to Azure
+    Cosmos DB via the SQL API
+  package_url: https://www.nuget.org/Microsoft.Azure.DocumentDB
+  version: 1.21.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13231/default_44258eb565a346d4baf5243c0df2a219253fec1a.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Cqrs.Azure.DocumentDb/Cqrs.Azure.DocumentDb.csproj
+  detection_source: Framework/Azure/Cqrs.Azure.DocumentDb/Cqrs.Azure.DocumentDb.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 07:30:31.000000000 Z
+- name: Microsoft.Azure.EventHubs
+  description: This is the next generation Azure Event Hubs .NET Standard client library
+  package_url: https://www.nuget.org/Microsoft.Azure.EventHubs
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13502/default_83bd69dd2d30bd3eae917c5ac8376fd500016904.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Cqrs.Azure.EventHub/Cqrs.Azure.EventHub.csproj
+  detection_source: Framework/Azure/Cqrs.Azure.EventHub/Cqrs.Azure.EventHub.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 07:30:31.000000000 Z
+- name: Microsoft.Azure.EventHubs.Processor
+  description: This is the next generation Azure Event Hubs .NET Standard Event Processor
+    Host library
+  package_url: https://www.nuget.org/Microsoft.Azure.EventHubs.Processor
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14552/default_803f61ccfea79f2eb6072ce93566c1b85bcd67e1.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Cqrs.Azure.EventHub/Cqrs.Azure.EventHub.csproj
+  detection_source: Framework/Azure/Cqrs.Azure.EventHub/Cqrs.Azure.EventHub.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 07:30:31.000000000 Z
+- name: Microsoft.Azure.KeyVault
+  description: Azure Key Vault enables users to store and use cryptographic keys within
+    the Microsoft Azure environment
+  package_url: https://www.nuget.org/Microsoft.Azure.KeyVault
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13163/default_44f069d4a745c5c788fc8fe5128bd24cacde1aff.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Cqrs.Azure.KeyVault/Cqrs.Azure.KeyVault.csproj
+  detection_source: Framework/Azure/Cqrs.Azure.KeyVault/Cqrs.Azure.KeyVault.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 07:30:31.000000000 Z
+- name: Microsoft.Azure.ServiceBus
+  description: This is the next generation Azure Service Bus .NET Standard client
+    library that focuses on queues &amp; topics
+  package_url: https://www.nuget.org/Microsoft.Azure.ServiceBus
+  version: 4.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13117/default_7730aba6df4478f4dfdede17ef73dd29c3d5f711.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Cqrs.Azure.EventHub/Cqrs.Azure.EventHub.csproj
+  detection_source: Framework/Azure/Cqrs.Azure.EventHub/Cqrs.Azure.EventHub.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 07:30:31.000000000 Z
+- name: Microsoft.Azure.Services.AppAuthentication
+  description: Enables a service to authenticate to Azure services using the developer's
+    Azure Active Directory/ Microsoft account during development
+  package_url: https://www.nuget.org/Microsoft.Azure.Services.AppAuthentication
+  version: 1.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13316/default_51dc9af41ee0a21e27551191d6c835184da1c0d8.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Cqrs.Azure.KeyVault/Cqrs.Azure.KeyVault.csproj
+  detection_source: Framework/Azure/Cqrs.Azure.KeyVault/Cqrs.Azure.KeyVault.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 07:30:31.000000000 Z
+- name: Microsoft.Azure.WebJobs
+  description: This package contains the runtime assemblies for Microsoft.Azure.WebJobs.Host
+  package_url: https://www.nuget.org/Microsoft.Azure.WebJobs
+  version: 1.1.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13246/default_43ce02ab18bb400d4d6b410ac4dc3a50f87e634a.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Azure.WebJobs.Core
+  description: This library simplifies the task of adding background processing to
+    your Microsoft Azure Web Sites
+  package_url: https://www.nuget.org/Microsoft.Azure.WebJobs.Core
+  version: 1.1.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14889/default_aefee43dcb937439f85f5e926275320cb9698060.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Azure.WebJobs.Extensions
+  description: This package contains Timers and File triggers
+  package_url: https://www.nuget.org/Microsoft.Azure.WebJobs.Extensions
+  version: 3.0.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13643/default_cf7c9bcc8caff1ab5c9fba9a4cc235b100a0a0b2.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Cqrs.Azure.WebJobs/Cqrs.Azure.WebJobs.csproj
+  detection_source: Framework/Azure/Cqrs.Azure.WebJobs/Cqrs.Azure.WebJobs.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 07:30:31.000000000 Z
+- name: Microsoft.CSharp
+  description: Provides support for compilation and code generation, including dynamic,
+    using the C# language
+  package_url: https://www.nuget.org/Microsoft.CSharp
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12845/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs/Cqrs.csproj
+  detection_source: Framework/Cqrs/Cqrs.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+  description: Replacement CodeDOM providers that use the new .NET Compiler Platform
+  package_url: https://www.nuget.org/Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13106/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Modelling/Solution
+    Template/Northwind.Domain.Host.Web/packages.config
+  detection_source: Modelling/Solution Template/Northwind.Domain.Host.Web/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Data.Edm
+  description: Classes to represent, construct, parse, serialize and validate entity
+    data models
+  package_url: https://www.nuget.org/Microsoft.Data.Edm
+  version: 5.8.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13102/default_ec099cd91036217b675f6c04acb0ff8c567a41ed.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Data.OData
+  description: This version of the library supports earlier versions of the Microsoft
+    OData
+  package_url: https://www.nuget.org/Microsoft.Data.OData
+  version: 5.8.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13021/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Data.Services.Client
+  description: LINQ-enabled client API for issuing OData queries and consuming OData
+    payloads
+  package_url: https://www.nuget.org/Microsoft.Data.Services.Client
+  version: 5.8.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13045/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.EntityFrameworkCore.SqlServer
+  description: Microsoft SQL Server database provider for Entity Framework Core
+  package_url: https://www.nuget.org/Microsoft.EntityFrameworkCore.SqlServer
+  version: 3.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12891/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs/Cqrs.csproj
+  detection_source: Framework/Cqrs/Cqrs.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Extensions.Configuration
+  description: Implementation of key-value pair based configuration for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12856/default_0f5233770e71818507f2339042e7e61bef904e70.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Tests/Cqrs.Azure.ConfigurationManager.Tests.Unit/Cqrs.Azure.ConfigurationManager.Tests.Unit.csproj
+  detection_source: Framework/Azure/Tests/Cqrs.Azure.ConfigurationManager.Tests.Unit/Cqrs.Azure.ConfigurationManager.Tests.Unit.csproj
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-25 01:33:59.000000000 Z
+- name: Microsoft.Extensions.Configuration.Abstractions
+  description: Abstractions of key-value pair based configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Abstractions
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12885/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Cqrs.Azure.ConfigurationManager/Cqrs.Azure.ConfigurationManager.csproj
+  detection_source: Framework/Azure/Cqrs.Azure.ConfigurationManager/Cqrs.Azure.ConfigurationManager.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Extensions.Configuration.Binder
+  description: Functionality to bind an object to data in configuration providers
+    for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Binder
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12893/default_4e8402857d2ce7356903ee7422d9b4a0f23cc137.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Cqrs.Azure.ConfigurationManager/Cqrs.Azure.ConfigurationManager.csproj
+  detection_source: Framework/Azure/Cqrs.Azure.ConfigurationManager/Cqrs.Azure.ConfigurationManager.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Extensions.Configuration.EnvironmentVariables
+  description: Environment variables configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.EnvironmentVariables
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12955/default_85d1877c90581261989cc5e05023faec547467b3.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Tests/Cqrs.Azure.ConfigurationManager.Tests.Unit/Cqrs.Azure.ConfigurationManager.Tests.Unit.csproj
+  detection_source: Framework/Azure/Tests/Cqrs.Azure.ConfigurationManager.Tests.Unit/Cqrs.Azure.ConfigurationManager.Tests.Unit.csproj
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-25 01:33:59.000000000 Z
+- name: Microsoft.Extensions.Configuration.Json
+  description: JSON configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.Json
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12865/default_4ea11141d2970a66e9637b71cf054ab66968c217.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Tests/Cqrs.Azure.ConfigurationManager.Tests.Unit/Cqrs.Azure.ConfigurationManager.Tests.Unit.csproj
+  detection_source: Framework/Azure/Tests/Cqrs.Azure.ConfigurationManager.Tests.Unit/Cqrs.Azure.ConfigurationManager.Tests.Unit.csproj
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-25 01:33:59.000000000 Z
+- name: Microsoft.Extensions.Configuration.UserSecrets
+  description: User secrets configuration provider implementation for Microsoft.Extensions.Configuration
+  package_url: https://www.nuget.org/Microsoft.Extensions.Configuration.UserSecrets
+  version: 3.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13212/default_18a92235046d8c8db548cd22b87cf5792dc31759.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Azure/Tests/Cqrs.Azure.ServiceBus.Tests.Integration/Cqrs.Azure.ServiceBus.Tests.Integration.csproj
+  detection_source: Framework/Azure/Tests/Cqrs.Azure.ServiceBus.Tests.Integration/Cqrs.Azure.ServiceBus.Tests.Integration.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-07-23 11:24:06.000000000 Z
+- name: Microsoft.Extensions.DependencyInjection.Abstractions
+  description: Abstractions for dependency injection
+  package_url: https://www.nuget.org/Microsoft.Extensions.DependencyInjection.Abstractions
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12848/default_ccf90b566c21ad9eaa59733f297e535ea39fb3b4.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Ninject/Azure/Cqrs.Ninject.Azure.Wcf/Cqrs.Ninject.Azure.Wcf.csproj
+  detection_source: Framework/Ninject/Azure/Cqrs.Ninject.Azure.Wcf/Cqrs.Ninject.Azure.Wcf.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Extensions.DependencyModel
+  description: Abstractions for reading `.deps` files
+  package_url: https://www.nuget.org/Microsoft.Extensions.DependencyModel
+  version: 3.0.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12941/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs/Cqrs.csproj
+  detection_source: Framework/Cqrs/Cqrs.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Extensions.Logging.Abstractions
+  description: Logging abstractions for Microsoft.Extensions.Logging
+  package_url: https://www.nuget.org/Microsoft.Extensions.Logging.Abstractions
+  version: 3.1.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12853/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Scheduler/Cqrs.Scheduler.Trigger/Cqrs.Scheduler.Trigger.csproj
+  detection_source: Scheduler/Cqrs.Scheduler.Trigger/Cqrs.Scheduler.Trigger.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 11:03:42.000000000 Z
+- name: Microsoft.Extensions.Options
+  description: Provides a strongly typed way of specifying and accessing settings
+    using dependency injection
+  package_url: https://www.nuget.org/Microsoft.Extensions.Options
+  version: 3.1.7
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12866/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Scheduler/Cqrs.Scheduler.Trigger/Cqrs.Scheduler.Trigger.csproj
+  detection_source: Scheduler/Cqrs.Scheduler.Trigger/Cqrs.Scheduler.Trigger.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 11:03:42.000000000 Z
+- name: Microsoft.Net.Compilers
+  description: 'Note: This package is deprecated'
+  package_url: https://www.nuget.org/Microsoft.Net.Compilers
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13170/default_81ac985912284073db895b0d26abf3657532a164.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Modelling/Solution
+    Template/Northwind.Domain.Host.Web/packages.config
+  detection_source: Modelling/Solution Template/Northwind.Domain.Host.Web/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Net.Http
+  description: This package includes HttpClient for sending requests over HTTP, as
+    well as HttpRequestMessage and HttpResponseMessage for processing HTTP messages
+  package_url: https://www.nuget.org/Microsoft.Net.Http
+  version: 2.0.20710
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12875/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Owin
+  description: Provides a set of helper types and abstractions for simplifying the
+    creation of OWIN components
+  package_url: https://www.nuget.org/Microsoft.Owin
+  version: 4.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12889/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Owin.Cors
+  description: This package contains the components to enable Cross-Origin Resource
+    Sharing
+  package_url: https://www.nuget.org/Microsoft.Owin.Cors
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13252/default_c8e572417e69bbdabda8ecc4a08c016319f24023.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Owin.Host.SystemWeb
+  description: OWIN server that enables OWIN-based applications to run on IIS using
+    the ASP.NET request pipeline
+  package_url: https://www.nuget.org/Microsoft.Owin.Host.SystemWeb
+  version: 2.1.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12970/default_54d470a1e19c265eb229b6bd88965fb8df9f9f78.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Owin.Security
+  description: Common types which are shared by the various authentication middleware
+    components
+  package_url: https://www.nuget.org/Microsoft.Owin.Security
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12922/default_e43fb8cd51d87352a1197706afa527de5c3baecd.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Owin.Security.Cookies
+  description: Middleware that enables an application to use cookie based authentication
+  package_url: https://www.nuget.org/Microsoft.Owin.Security.Cookies
+  version: 4.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12999/default_12f7186a6d439da94c192c70c3589768d943782d.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Owin.Security.Facebook
+  description: Middleware that enables an application to support Facebook's OAuth
+    2.0 authentication workflow
+  package_url: https://www.nuget.org/Microsoft.Owin.Security.Facebook
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13279/default_58e2e43f71c25c7e8c3e64c2a30ddaf5c821729c.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Owin.Security.Google
+  description: Contains middlewares to support Google's OAuth 2.0 authentication workflow
+  package_url: https://www.nuget.org/Microsoft.Owin.Security.Google
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13271/default_0e6336285a2ac0713cff413264705f5aa2f348a1.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Owin.Security.MicrosoftAccount
+  description: Middleware that enables an application to support the Microsoft Account
+    authentication workflow
+  package_url: https://www.nuget.org/Microsoft.Owin.Security.MicrosoftAccount
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13310/default_1e1f93823dcbf467a805adfd578c74f8f54c6a4e.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Owin.Security.OAuth
+  description: Middleware that enables an application to support any standard OAuth
+    2.0 authentication workflow
+  package_url: https://www.nuget.org/Microsoft.Owin.Security.OAuth
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12983/default_c33fee4544dbdcb376300222dc5e214ee63f7ce9.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Owin.Security.Twitter
+  description: Middleware that enables an application to support Twitter's OAuth 2.0
+    authentication workflow
+  package_url: https://www.nuget.org/Microsoft.Owin.Security.Twitter
+  version: 3.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13305/default_a905ee276a536c55784ed56585a51a44d19b6d5b.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.Web.Infrastructure
+  description: This package contains the Microsoft.Web.Infrastructure assembly that
+    lets you dynamically register HTTP modules at run time
+  package_url: https://www.nuget.org/Microsoft.Web.Infrastructure
+  version: 1.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12927/default_2aeaea161c566d1abfbaf3f2206fda12b1eea9cd.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.WindowsAzure.ConfigurationManager
+  description: Microsoft Azure Configuration Manager provides a unified API to load
+    configuration settings regardless of where the application is hosted - whether
+    on-premises or in a Cloud Ser...
+  package_url: https://www.nuget.org/Microsoft.WindowsAzure.ConfigurationManager
+  version: 3.2.3
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13007/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.jQuery.Unobtrusive.Ajax
+  description: JQuery plugin that unobtrusively sets up jQuery Ajax
+  package_url: https://www.nuget.org/Microsoft.jQuery.Unobtrusive.Ajax
+  version: 2.0.30116
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13618/default_cf7c9bcc8caff1ab5c9fba9a4cc235b100a0a0b2.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: Microsoft.jQuery.Unobtrusive.Validation
+  description: JQuery plugin that unobtrusively sets up jQuery.Validation
+  package_url: https://www.nuget.org/Microsoft.jQuery.Unobtrusive.Validation
+  version: 3.2.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13143/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: MongoDB.Driver
+  description: Official .NET driver for MongoDB
+  package_url: https://www.nuget.org/MongoDB.Driver
+  version: 2.3.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12892/default_f3b66025ae87cade251c16c8d9e166b0f1df9597.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs.MongoDB/Cqrs.MongoDB.csproj
+  detection_source: Framework/Cqrs.MongoDB/Cqrs.MongoDB.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 07:30:31.000000000 Z
+  vulnerabilities:
+  - name: MongoDB .NET/C# Driver vulnerable to Deserialization of Untrusted Data
+    cve_id: CVE-2022-48282
+    cve_url: https://github.com/advisories/GHSA-7j9m-j397-g4wx
+    detected_date: Mar 4
+    severity: high
+    first_patched: 2.19.0
+- name: NUnit3TestAdapter
+  description: A package including the NUnit 3 TestAdapter for Visual Studio 2012
+    onwards
+  package_url: https://www.nuget.org/NUnit3TestAdapter
+  version: 3.15.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13216/default_e23dabba1be2c69fbf5fc50bdc46cbffbe6ca2cb.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Akka.Net/Cqrs.Akka.Tests.Unit/Cqrs.Akka.Tests.Unit.csproj
+  detection_source: Framework/Akka.Net/Cqrs.Akka.Tests.Unit/Cqrs.Akka.Tests.Unit.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-06-09 09:24:26.000000000 Z
+- name: Newtonsoft.Json
+  description: Json.NET is a popular high-performance JSON framework for .NET
+  package_url: https://www.nuget.org/Newtonsoft.Json
+  version: 11.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/nuget/image.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+  vulnerabilities:
+  - name: 'Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json'
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-8rfx-6mr3-5jh3
+    detected_date: Jan 4
+    severity: high
+    first_patched: 13.0.1
+  - name: Improper Handling of Exceptional Conditions in Newtonsoft.Json
+    cve_id: CVE-2024-21907
+    cve_url: https://github.com/advisories/GHSA-5crp-9r3c-p9vr
+    detected_date: Jun 23
+    severity: high
+    first_patched: 13.0.1
+- name: Ninject.MVC3
+  description: Extension for Ninject providing integration with ASP.NET MVC3
+  package_url: https://www.nuget.org/Ninject.MVC3
+  version: 3.2.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14781/default_e240b2e3aa3fd870c5c421ddf534c760d2f79310.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.RestAPI/packages.config
+  detection_source: Chat/Chat.RestAPI/packages.config
+  last_updated_by: XsamX
+  last_updated_on: 2017-07-21 23:20:45.000000000 Z
+- name: Ninject.Web.Common
+  description: Bootstrapper for web projects
+  package_url: https://www.nuget.org/Ninject.Web.Common
+  version: 3.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13627/default_cf7c9bcc8caff1ab5c9fba9a4cc235b100a0a0b2.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: XsamX
+  last_updated_on: 2017-07-21 23:20:45.000000000 Z
+- name: Ninject.Web.Common.WebHost
+  description: ASP.NET extension for Ninject.Web.Common
+  package_url: https://www.nuget.org/Ninject.Web.Common.WebHost
+  version: 3.2.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14773/default_8bf470a8ce0d1872c3dbde917fe9d491f65939bb.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: XsamX
+  last_updated_on: 2017-07-21 23:20:45.000000000 Z
+- name: Respond
+  description: The goal of this script is to provide a fast and lightweight
+  package_url: https://www.nuget.org/Respond
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13229/default_e23dabba1be2c69fbf5fc50bdc46cbffbe6ca2cb.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-18 21:47:39.000000000 Z
+- name: System.Buffers
+  description: Provides resource pooling of any type for performance-critical applications
+    that allocate and deallocate objects frequently
+  package_url: https://www.nuget.org/System.Buffers
+  version: 4.5.1
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13038/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Scheduler/Cqrs.Scheduler.Trigger/Cqrs.Scheduler.Trigger.csproj
+  detection_source: Scheduler/Cqrs.Scheduler.Trigger/Cqrs.Scheduler.Trigger.csproj
+  last_updated_by: Grover Jackson
+  last_updated_on: 2021-09-16 00:44:23.000000000 Z
+- name: System.ComponentModel.Annotations
+  description: Provides attributes that are used to define metadata for objects used
+    as data sources
+  package_url: https://www.nuget.org/System.ComponentModel.Annotations
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12862/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs/Cqrs.csproj
+  detection_source: Framework/Cqrs/Cqrs.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: System.Configuration.ConfigurationManager
+  description: Provides types that support using configuration files
+  package_url: https://www.nuget.org/System.Configuration.ConfigurationManager
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12897/default_d56a77cbb06d3dae6daef9669108e3e01d2494af.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs/Cqrs.csproj
+  detection_source: Framework/Cqrs/Cqrs.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 10:21:32.000000000 Z
+- name: System.Net.NameResolution
+  description: Provides the System.Net.Dns class, which enables developers to perform
+    simple domain name resolution
+  package_url: https://www.nuget.org/System.Net.NameResolution
+  version: 4.3.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13004/default_dd10728859f7e363ef13345d855b2daba48cace4.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Scheduler/Cqrs.Scheduler.SampleReport/Cqrs.Scheduler.SampleReport.csproj
+  detection_source: Scheduler/Cqrs.Scheduler.SampleReport/Cqrs.Scheduler.SampleReport.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-13 11:03:42.000000000 Z
+- name: System.ServiceModel.Primitives
+  description: Package Description
+  package_url: https://www.nuget.org/System.ServiceModel.Primitives
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13101/default_a5e8cd728170fc92850284a53a17ff7deb73f318.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs/Cqrs.csproj
+  detection_source: Framework/Cqrs/Cqrs.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 09:04:00.000000000 Z
+- name: System.Spatial
+  description: Contains classes and methods that facilitate geography and geometry
+    spatial operations
+  package_url: https://www.nuget.org/System.Spatial
+  version: 5.8.4
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13062/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-19 05:59:48.000000000 Z
+- name: TransientFaultHandling.Core
+  description: The Transient Fault Handling Core provides the retry mechanisms to
+    make your application more resilient to transient faults in both synchronous and
+    asynchronous scenarios
+  package_url: https://www.nuget.org/TransientFaultHandling.Core
+  version: 5.1.1209
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14577/default_6e27fcc2398f670b7fa6945434e8084c1fea331d.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-19 05:59:48.000000000 Z
+- name: Unity.Interception
+  description: Unity Interception
+  package_url: https://www.nuget.org/Unity.Interception
+  version: 2.1.505
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13187/default_81ac985912284073db895b0d26abf3657532a164.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2018-04-07 10:12:07.000000000 Z
+- name: ValueInjecter
+  description: Mapper
+  package_url: https://www.nuget.org/ValueInjecter
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13873/default_e637dea816bab62ca037ba8b354e359bd6438b40.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: XsamX
+  last_updated_on: 2017-07-21 23:20:45.000000000 Z
+- name: WebActivatorEx
+  description: A package that allows other packages to execute some startup code in
+    web apps
+  package_url: https://www.nuget.org/WebActivatorEx
+  version: 2.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13008/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-18 09:56:02.000000000 Z
+- name: WebGrease
+  description: Web Grease is a suite of tools for optimizing javascript
+  package_url: https://www.nuget.org/WebGrease
+  version: 1.5.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13115/default_a057bdad489be3cb053d372a68695da4ac94962d.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-18 21:47:39.000000000 Z
+- name: WindowsAzure.ServiceBus
+  description: Use this for Microsoft Azure Service Bus Queues, Topics, EventHub and
+    Relay backend operations
+  package_url: https://www.nuget.org/WindowsAzure.ServiceBus
+  version: 2.8.2
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13032/default_a0b0eac5a401515996bd8fc359ffcfbc844cbe90.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-19 05:59:48.000000000 Z
+- name: WindowsAzure.Storage
+  description: 'NOTE: As of version 9.4.0'
+  package_url: https://www.nuget.org/WindowsAzure.Storage
+  version: 4.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/12883/default_3ee9e3bfd65cbae9db28ab78b712a58bcd81af27.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2018-04-07 10:12:07.000000000 Z
+- name: cdmdotnet.Logging
+  description: This logging library makes large use of enterprise correlation
+  package_url: https://www.nuget.org/cdmdotnet.Logging
+  version: 1.2.96
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14978/default_07ade81be04e341d8bd0772835ab2d3c452fbc90.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2018-04-07 10:12:07.000000000 Z
+- name: cdmdotnet.StateManagement
+  description: C# State Management provides a consistent abstraction to accessing
+    data from various collections such as thread bound contexts
+  package_url: https://www.nuget.org/cdmdotnet.StateManagement
+  version: 3.0.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/14668/default_e2060ed957e3bc23ec66d46fe9527cbf955f566a.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/Chat.MicroKernel/packages.config
+  detection_source: Chat/Chat.MicroKernel/packages.config
+  last_updated_by: Grover
+  last_updated_on: 2018-04-07 10:12:07.000000000 Z
+- name: jQuery.UI.Combined
+  description: JQuery UI is an open source library of interface components — interactions,
+    full-featured widgets, and animation effects — based on the stellar jQuery javascript
+    library
+  package_url: https://www.nuget.org/jQuery.UI.Combined
+  version: 1.8.20
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13096/default_9a42ff760d96a634e61dad6d7a7d76e2d1506229.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/ProjectTemplate/MyCompany.MyProject.Web.Mvc/packages.config
+  detection_source: ProjectTemplate/MyCompany.MyProject.Web.Mvc/packages.config
+  last_updated_by: grover
+  last_updated_on: 2016-02-23 07:26:04.000000000 Z
+  vulnerabilities:
+  - name: High severity vulnerability that affects jquery-ui
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-g8q2-24jh-5hpc
+    detected_date: Sep 27
+    severity: high
+    first_patched: 1.12.0
+  - name: jQuery-UI vulnerable to Cross-site Scripting in dialog closeText
+    cve_id: CVE-2016-7103
+    cve_url: https://github.com/advisories/GHSA-hpcf-8vf9-q4gj
+    detected_date: Sep 27
+    severity: moderate
+    first_patched: 1.12.0
+  - name: Cross-site Scripting in jquery-ui
+    cve_id: CVE-2010-5312
+    cve_url: https://github.com/advisories/GHSA-wcm2-9c89-wmfm
+    detected_date: Sep 27
+    severity: moderate
+    first_patched: 1.10.0
+  - name: jQuery UI vulnerable to XSS when refreshing a checkboxradio with an HTML-like
+      initial text label
+    cve_id: CVE-2022-31160
+    cve_url: https://github.com/advisories/GHSA-h6gj-6jjq-h8g9
+    detected_date: Sep 27
+    severity: moderate
+    first_patched: 1.13.2
+  - name: XSS in the `altField` option of the Datepicker widget in jquery-ui
+    cve_id: CVE-2021-41182
+    cve_url: https://github.com/advisories/GHSA-9gj3-hwp5-pmwc
+    detected_date: Sep 26
+    severity: moderate
+    first_patched: 1.13.0
+  - name: XSS in `*Text` options of the Datepicker widget in jquery-ui
+    cve_id: CVE-2021-41183
+    cve_url: https://github.com/advisories/GHSA-j7qv-pgf6-hvh4
+    detected_date: Sep 26
+    severity: moderate
+    first_patched: 1.13.0
+  - name: jquery-ui Tooltip widget vulnerable to XSS
+    cve_id: CVE-2012-6662
+    cve_url: https://github.com/advisories/GHSA-qqxp-xp9v-vvx6
+    detected_date: Sep 27
+    severity: moderate
+    first_patched: 1.10.0
+  - name: XSS in the `of` option of the `.position()` util in jquery-ui
+    cve_id: CVE-2021-41184
+    cve_url: https://github.com/advisories/GHSA-gpqq-952q-5327
+    detected_date: Sep 26
+    severity: moderate
+    first_patched: 1.13.0
+- name: jQuery.Validation
+  description: This jQuery plugin makes simple clientside form validation trivial,
+    while offering lots of option for customization
+  package_url: https://www.nuget.org/jQuery.Validation
+  version: 1.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13119/default_f0c74e534077001eb65a152707758ce46a2dc970.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/HelloWorldExample/packages.config
+  detection_source: HelloWorldExample/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2019-11-19 06:11:08.000000000 Z
+  vulnerabilities:
+  - name: Regular Expression Denial of Service in jquery-validation
+    cve_id: CVE-2021-21252
+    cve_url: https://github.com/advisories/GHSA-jxwx-85vp-gvwm
+    detected_date: Mar 3
+    severity: high
+    first_patched: 1.19.3
+  - name: Regular expression denial of service in jquery-validation
+    cve_id: CVE-2021-43306
+    cve_url: https://github.com/advisories/GHSA-j9m2-h2pv-wvph
+    detected_date: May 31
+    severity: low
+    first_patched: 1.19.4
+- name: knockoutjs
+  description: A JavaScript MVVM library to help you create rich
+  package_url: https://www.nuget.org/knockoutjs
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13135/default_048f7c1081704627a12b8b5e168cfdbc9f28fb33.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  detection_source: Northwind/aspnet-mvc/kendoui-northwind-dashboard/packages.config
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-22 02:12:35.000000000 Z
+- name: mongocsharpdriver
+  description: This package contains the legacy driver
+  package_url: https://www.nuget.org/mongocsharpdriver
+  version: 1.11.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: NuGet Packages
+  image_url: https://img.stackshare.io/package/13029/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Framework/Cqrs.Mongo/Cqrs.Mongo.csproj
+  detection_source: Framework/Cqrs.Mongo/Cqrs.Mongo.csproj
+  last_updated_by: Grover
+  last_updated_on: 2022-10-21 07:30:31.000000000 Z
+- name: angular
+  description: Bower package for AngularJS
+  package_url: http://bower.io/angular
+  version: 1.4.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/angular/bower.json
+  detection_source: Northwind/angular/bower.json
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-22 02:12:35.000000000 Z
+- name: angular-new-router
+  description: The Angular 1 Component Router
+  package_url: http://bower.io/angular-new-router
+  version: 0.5.3
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/angular/bower.json
+  detection_source: Northwind/angular/bower.json
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-22 02:12:35.000000000 Z
+- name: angular-resource
+  description: Angular-resource bower repo
+  package_url: http://bower.io/angular-resource
+  version: 1.4.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/bower/image.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Northwind/angular/bower.json
+  detection_source: Northwind/angular/bower.json
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-06-22 02:12:35.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/VuyoSoci/CQRS/blob/master/Chat/package.json
+  detection_source: Chat/package.json
+  last_updated_by: Grover Jackson
+  last_updated_on: 2017-07-15 00:03:01.000000000 Z
