@@ -2,7 +2,7 @@ repo_name: VuyoSoci/CQRS
 report_id: fee28f31760352998a64a27f07f6d275
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-31T11:58:58+00:00'
+timestamp: '2024-02-29T19:46:13+00:00'
 requested_by: cdmdotnet
 provider: github
 branch: master
@@ -157,7 +157,7 @@ tools:
   last_updated_by: Grover Jackson
   last_updated_on: 2017-07-12 22:43:29.000000000 Z
 - name: Azure Service Bus
-  description: 'Reliable cloud messaging as a service (MaaS) '
+  description: Reliable cloud messaging as a service (MaaS)
   website_url: https://azure.microsoft.com/en-us/services/service-bus/
   open_source: false
   hosted_saas: true
@@ -183,7 +183,7 @@ tools:
   last_updated_by: Grover
   last_updated_on: 2022-09-28 07:32:05.000000000 Z
 - name: Entity Framework Core
-  description: 'Lightweight and cross-platform version of the popular Entity Framework '
+  description: Lightweight and cross-platform version of the popular Entity Framework
   website_url: https://docs.microsoft.com/en-us/ef/core/
   license: MIT
   open_source: true
